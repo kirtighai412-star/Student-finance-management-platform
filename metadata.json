@@ -1,0 +1,9 @@
+
+{
+  "name": "RBUPAY | Intelligent Wealth Platform",
+  "description": "A premium Indian digital payment and investment platform with real-time analytics, stock tracking, and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
